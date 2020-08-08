@@ -1,0 +1,46 @@
+2020-08-07 21:15:44 -Starting LogApplication on invoker-pc with PID 68001 (/home/invoker/IdeaProjects/1demo/spring-boot-study/log/target/classes started by invoker in /home/invoker/IdeaProjects/1demo/spring-boot-study)
+2020-08-07 21:15:44 -Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-07 21:15:44 -No active profile set, falling back to default profiles: default
+2020-08-07 21:15:45 -Started LogApplication in 0.988 seconds (JVM running for 1.199)
+2020-08-07 21:15:45 -This is a debug message
+2020-08-07 21:15:45 -This is an info message
+2020-08-07 21:15:45 -This is a warn message
+2020-08-07 21:15:45 -This is an error message
+2020-08-07 21:15:51 -This is a debug message
+2020-08-07 21:15:51 -This is an info message
+2020-08-07 21:15:51 -This is a warn message
+2020-08-07 21:15:51 -This is an error message
+2020-08-07 21:21:11 -This is an error message
+2020-08-07 21:21:23 -This is an error message
+2020-08-07 21:21:36 -Starting LogApplication on invoker-pc with PID 68846 (/home/invoker/IdeaProjects/1demo/spring-boot-study/log/target/classes started by invoker in /home/invoker/IdeaProjects/1demo/spring-boot-study)
+2020-08-07 21:21:36 -Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-07 21:21:36 -No active profile set, falling back to default profiles: default
+2020-08-07 21:21:36 -Started LogApplication in 0.983 seconds (JVM running for 1.206)
+2020-08-07 21:21:36 -This is a debug message
+2020-08-07 21:21:36 -This is an info message
+2020-08-07 21:21:36 -This is a warn message
+2020-08-07 21:21:36 -This is an error message
+2020-08-07 21:22:26 -Starting LogApplication on invoker-pc with PID 69065 (/home/invoker/IdeaProjects/1demo/spring-boot-study/log/target/classes started by invoker in /home/invoker/IdeaProjects/1demo/spring-boot-study)
+2020-08-07 21:22:26 -Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-07 21:22:26 -No active profile set, falling back to default profiles: default
+2020-08-07 21:22:27 -Started LogApplication in 1.009 seconds (JVM running for 1.235)
+2020-08-07 21:22:27 -This is a debug message
+2020-08-07 21:22:27 -This is an info message
+2020-08-07 21:22:27 -This is a warn message
+2020-08-07 21:22:27 -This is an error message
+2020-08-07 22:17:24 -Starting LogApplication on invoker-pc with PID 75709 (/home/invoker/IdeaProjects/1demo/spring-boot-study/log/target/classes started by invoker in /home/invoker/IdeaProjects/1demo/spring-boot-study)
+2020-08-07 22:17:24 -Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-07 22:17:24 -No active profile set, falling back to default profiles: default
+2020-08-07 22:17:24 -Started LogApplication in 1.065 seconds (JVM running for 1.62)
+2020-08-07 22:17:24 -This is a debug message
+2020-08-07 22:17:24 -This is an info message
+2020-08-07 22:17:24 -This is a warn message
+2020-08-07 22:17:24 -This is an error message
+2020-08-07 22:17:30 -Starting LogApplication on invoker-pc with PID 75799 (/home/invoker/IdeaProjects/1demo/spring-boot-study/log/target/classes started by invoker in /home/invoker/IdeaProjects/1demo/spring-boot-study)
+2020-08-07 22:17:30 -Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-07 22:17:30 -No active profile set, falling back to default profiles: default
+2020-08-07 22:17:30 -Started LogApplication in 0.97 seconds (JVM running for 1.173)
+2020-08-07 22:17:30 -This is a debug message
+2020-08-07 22:17:30 -This is an info message
+2020-08-07 22:17:30 -This is a warn message
+2020-08-07 22:17:30 -This is an error message
