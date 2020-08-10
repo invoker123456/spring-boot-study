@@ -1,0 +1,17 @@
+server:
+  #授权服务器
+  port: 8080
+spring:
+  # Redis
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password:
+  # 数据库
+  datasource:
+    url: jdbc:mysql://localhost:3306/security?useUnicode=true&characterEncoding=UTF-8&serverTimeZone=Asia/Shanghai
+    username: invoker
+    password: 1225
+  main:
+    # 这是因为我们一会要创建自己的 ClientDetailsService，而系统已经创建了 ClientDetailsService，加了最后一条就允许我们自己的实例覆盖系统默认的实例
+    allow-bean-definition-overriding: true
